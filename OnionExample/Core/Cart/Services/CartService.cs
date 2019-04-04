@@ -66,6 +66,7 @@ namespace OnionExample.Core.Cart.Services
             cart.Items.Remove(productInCart);
         }
 
+// from server test
         // local change
         public void ProcessOrder(OrderSubmitModel submitModel)
         {
