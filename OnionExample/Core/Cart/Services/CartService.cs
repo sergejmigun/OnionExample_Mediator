@@ -78,7 +78,8 @@ namespace OnionExample.Core.Cart.Services
             {
                 ProductId = x.ProductId,
                 Quantity = x.Quantity
-            }))).Wait();
+            })))
+            .Wait();
 
             cart.Items.Clear();
         }
