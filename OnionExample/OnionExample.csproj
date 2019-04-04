@@ -223,6 +223,7 @@
     <TypeScriptCompile Include="Scripts\apps\commonApp\app.ts" />
     <TypeScriptCompile Include="Scripts\apps\commonApp\services\utils.service.def.ts" />
     <TypeScriptCompile Include="Scripts\apps\commonApp\services\utils.service.ts" />
+    <Content Include="newTest.html" />
     <Content Include="Scripts\core\angular.js" />
     <Content Include="Scripts\core\bootstrap.js" />
     <Content Include="ApplicationInsights.config">
