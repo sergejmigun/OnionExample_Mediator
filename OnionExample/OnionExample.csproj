@@ -198,6 +198,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="gitTest.html" />
     <Content Include="Global.asax" />
     <TypeScriptCompile Include="Scripts\apps\cartApp\app.ts" />
     <TypeScriptCompile Include="Scripts\apps\cartApp\controllers\cart.controller.ts" />
