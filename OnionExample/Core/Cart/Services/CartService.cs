@@ -70,6 +70,7 @@ namespace OnionExample.Core.Cart.Services
         {
             CartModel cart = this.GetCart();
 
+            // create order
             this.mediator.Send(new CreateOrderCommand(new OrderCustomer
             {
                 Name = submitModel.Customer.Name,
